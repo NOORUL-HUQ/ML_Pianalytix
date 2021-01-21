@@ -1,1 +1,1 @@
-# Machine Learning Project - Pianalytix
+# Machine Learning Research Intern - Pianalytix
